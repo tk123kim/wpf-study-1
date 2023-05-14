@@ -364,7 +364,7 @@ Thanks go to these wonderful people (List made with [contrib.rocks](https://cont
 ### Tunneling
 
 - `Tunneling` 이벤트는 `UIElement`의 `Preview` 접두사가 붙은 이벤트이다.
-- `Tunneling` 이벤트는 `Tunneling` 이벤트를 처리하는 `Handler`가 없으면 `Bubbling` 이벤트를 처리하는 `Handler`를 찾는다.
+- `Tunneling` 이벤트는 `Tunneling` 이벤트를 처리하는 `Handler`가 없으면 `Bubbling` 이벤트를 처리하는 `Handler`를 찾는다. 
 
 ### Bubbling
 
